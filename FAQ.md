@@ -12,3 +12,24 @@
 - Can I use other ARM CPU SBCs like BananaPi or Jetson Nano X or Macmini M1
 - What is the power consumption difference?
 - What are the operational cost
+- What is Cardano Network?
+- What is proof of stake?
+- What are stake pools?
+- How delegation process work?
+- What are delegation?
+- How rewards are calculated?
+- Where rewards come from?
+- How pool performance is calculated?
+- What's the difference between POW & POS?
+- What's the difference between Daedalus, Yoroi and Hardware wallet?
+- How to choose the best pool for you?
+- How to properly backup my wallet?
+- How to protect my ADA?
+- What's Ouroboros protocol?
+- What's a smart contract?
+- What is ideascale?
+- How Cardano era (roadmap) work?
+- What are Native Token?
+- What are NFT?
+- What are UTxO?
+- What are eUTxO?
